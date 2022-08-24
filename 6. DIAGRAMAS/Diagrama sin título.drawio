@@ -1,1 +1,51 @@
-<mxfile host="app.diagrams.net" modified="2022-08-24T03:56:27.466Z" agent="5.0 (Windows)" version="20.2.7" etag="ErOBPPdyVvtXRw7Yhng9" type="github"><diagram id="ipVZpv1GMjXW0TlO7RA7">UzV2zq1wL0osyPDNT0nNUTV2VTV2LsrPL4GwciucU3NyVI0MMlNUjV1UjYwMgFjVyA2HrCFY1qAgsSg1rwSLBiADYTaQg2Y1AA==</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2022-08-24T04:17:10.262Z" agent="5.0 (Windows)" etag="n28I6TqhUsDphflL401-" version="20.2.7" type="github">
+  <diagram id="ipVZpv1GMjXW0TlO7RA7" name="Página-1">
+    <mxGraphModel dx="868" dy="468" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="V8Em7qcIOVvSuxthLU8u-3" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="V8Em7qcIOVvSuxthLU8u-1" target="V8Em7qcIOVvSuxthLU8u-2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="V8Em7qcIOVvSuxthLU8u-1" value="&lt;div&gt;Inicio&lt;/div&gt;" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="354" y="70" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="V8Em7qcIOVvSuxthLU8u-5" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="V8Em7qcIOVvSuxthLU8u-2" target="V8Em7qcIOVvSuxthLU8u-4">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="V8Em7qcIOVvSuxthLU8u-2" value="&lt;div&gt;cantidad_de_metros,&lt;/div&gt;&lt;div&gt;resultado,&lt;/div&gt;&lt;div&gt;metros_a_yardas=1.09361&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="326" y="220" width="176" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="V8Em7qcIOVvSuxthLU8u-7" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="V8Em7qcIOVvSuxthLU8u-4" target="V8Em7qcIOVvSuxthLU8u-6">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="V8Em7qcIOVvSuxthLU8u-4" value="&quot;Ingresa la cantidad de metros&quot;" style="shape=document;whiteSpace=wrap;html=1;boundedLbl=1;" vertex="1" parent="1">
+          <mxGeometry x="354" y="330" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="V8Em7qcIOVvSuxthLU8u-9" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="V8Em7qcIOVvSuxthLU8u-6">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="414" y="585" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="V8Em7qcIOVvSuxthLU8u-6" value="cantidad_de_metros" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
+          <mxGeometry x="336" y="460" width="156" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="V8Em7qcIOVvSuxthLU8u-12" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="V8Em7qcIOVvSuxthLU8u-10" target="V8Em7qcIOVvSuxthLU8u-11">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="V8Em7qcIOVvSuxthLU8u-10" value="resultado = cantidad_de_metros *metros_a_yardas" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="350" y="585" width="130" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="V8Em7qcIOVvSuxthLU8u-14" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="V8Em7qcIOVvSuxthLU8u-11" target="V8Em7qcIOVvSuxthLU8u-13">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="V8Em7qcIOVvSuxthLU8u-11" value="&quot;Los metros a ingresados son igual&amp;nbsp; a &quot;, resultado, &quot; yardas&quot;" style="shape=document;whiteSpace=wrap;html=1;boundedLbl=1;" vertex="1" parent="1">
+          <mxGeometry x="319" y="740" width="192" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="V8Em7qcIOVvSuxthLU8u-13" value="Fin" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="355" y="880" width="120" height="80" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
